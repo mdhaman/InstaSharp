@@ -11,6 +11,6 @@ namespace InstaSharp.Model.Responses {
         [JsonMapping("meta", JsonMapping.MappingType.Class)]
         public Model.Meta Meta { get; set; }
         [JsonMapping("data", JsonMapping.MappingType.Collection)]
-        public IList<Model.User> Data { get; set; }
+        public List<Model.User> Data { get; set; }
     }
 }
