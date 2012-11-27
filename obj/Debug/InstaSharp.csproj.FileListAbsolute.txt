@@ -34,3 +34,4 @@ C:\Mayur\Newswire\Instagrm\InstragramAPISample\InstaSharp\bin\Debug\Newtonsoft.J
 C:\Mayur\Newswire\Instagrm\InstragramAPISample\InstaSharp\obj\Debug\ResolveAssemblyReference.cache
 C:\Mayur\Newswire\Instagrm\InstragramAPISample\InstaSharp\obj\Debug\InstaSharp.dll
 C:\Mayur\Newswire\Instagrm\InstragramAPISample\InstaSharp\obj\Debug\InstaSharp.pdb
+C:\Mayur\Newswire\Instagrm\InstragramAPISample\InstaSharp\bin\Debug\Newtonsoft.Json.dll
